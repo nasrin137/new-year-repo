@@ -1,0 +1,2 @@
+technology used
+#tailwind css
